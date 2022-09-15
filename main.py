@@ -50,7 +50,7 @@ if cal_again==('y' or 'Y'):
     calculator()
 elif cal_again==('n' or 'N'):
     print('''Thanks for using.
-    SEE YOU LATER''')
+    See You Later''')
 else:
     again()
 calculator()
